@@ -1,24 +1,34 @@
 # 🛍️ Flipkart Clone – Flask + React
 
-Folow these steps :
+A minimal full-stack e-commerce application using **Flask** for the backend and **React.js** for the frontend.  
+This project uses a single `data.json` file for managing products, users, coupons, and cart data — no external database required.
 
-API ( Flask APP)
 
-cd api
 
-Create and activate a virtual environment:
+## How to Run the Project
+
+### Backend – Flask API (`/api`)
+
+1. Open terminal and navigate to the API directory:
+
+
+cd API
 
 python3 -m venv venv
+source venv/bin/activate
 
-source venv/bin/activate 
-
-then use 
 
 pip3 install -r requirements.txt
 
 flask run
 
-Frontend (React App)
-cd ../flipkart
-npm start
+
+
+For Fontend
+
+Go To Flipkart
+
+
+then npm run
+
 
