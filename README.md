@@ -2,7 +2,7 @@
 
 Folow these steps :
 
-API ( Flask APp )
+API ( Flask APP)
 
 cd api
 
