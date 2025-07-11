@@ -33,7 +33,7 @@ end
 # Unset irrelevant variables.
 deactivate nondestructive
 
-set -gx VIRTUAL_ENV /home/nitin-singh-bisht/Documents/React-Flask-Cart-Application/ecommerce/venv
+set -gx VIRTUAL_ENV /home/nitin-singh-bisht/Documents/React-Flask-Cart-Application/api/venv
 
 set -gx _OLD_VIRTUAL_PATH $PATH
 set -gx PATH "$VIRTUAL_ENV/"bin $PATH

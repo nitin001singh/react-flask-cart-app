@@ -1,4 +1,4 @@
-#!/home/nitin-singh-bisht/Documents/React-Flask-Cart-Application/ecommerce/venv/bin/python3
+#!/home/nitin-singh-bisht/Documents/React-Flask-Cart-Application/api/venv/bin/python3
 # -*- coding: utf-8 -*-
 import re
 import sys
