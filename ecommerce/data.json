@@ -1,0 +1,57 @@
+{
+  "users": [
+    {
+      "username": "user",
+      "password": "1234"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "Wireless Mouse",
+      "category": "electronics",
+      "price": 499
+    },
+    {
+      "id": 2,
+      "name": "Bluetooth Headphones",
+      "category": "electronics",
+      "price": 1299
+    },
+    {
+      "id": 3,
+      "name": "Notebook",
+      "category": "stationery",
+      "price": 99
+    },
+    {
+      "id": 4,
+      "name": "Mobiles",
+      "category": "Electronic",
+      "price": 5000
+    }
+  ],
+  "cart": {
+    "john": [
+      {
+        "product_id": 1,
+        "quantity": 2
+      },
+      {
+        "product_id": 3,
+        "quantity": 1
+      }
+    ],
+    "alice": [
+      {
+        "product_id": 2,
+        "quantity": 1
+      }
+    ],
+    "user": []
+  },
+  "coupons": {
+    "SAVE10": 10,
+    "WELCOME5": 5
+  }
+}
