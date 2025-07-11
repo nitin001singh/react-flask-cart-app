@@ -7,7 +7,9 @@ API ( Flask APP)
 cd api
 
 Create and activate a virtual environment:
+
 python3 -m venv venv
+
 source venv/bin/activate 
 
 then use 
